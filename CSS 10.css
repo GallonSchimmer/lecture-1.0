@@ -1,0 +1,179 @@
+body {
+    background-color: #9c9f84;
+    margin: 0px;
+    font-size: 13px;
+    
+    
+}
+
+.agency img {
+  float: right;
+  width: 50px;
+  height: 50px;
+  background: #555;
+   position: fixed;
+    top: 10px;
+    right:10px;   
+
+}
+
+.agency h1 {
+  position: relative;
+  font-family: Impact;
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  font-size: 20px;
+  
+}
+
+button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button {
+			background-color: #e7e7e7;
+			border: 1px solid;
+			border-radius: 3px;
+			box-sizing: border-box;
+			display: block;
+			font: 700 13px verdana, Georgia, serif;
+			height: 30px;
+			line-height: 28px;
+			padding: 0 20px;
+			margin: 0 auto;
+
+			
+}
+.buttonhome {
+			background-color: #e7e7e7;
+			border: 1px solid;
+			border-radius: 3px;
+			box-sizing: border-box;
+			display: block;
+			font: 700 13px verdana, Georgia, serif;
+			height: 30px;
+			line-height: 28px;
+			padding: 0 20px;
+			margin: 0 auto;
+      cursor: url("Copy of Copy of Copy of Copy of SCHIMMER CREATIVE.png") 4 12, auto;
+
+			
+}
+
+.button:hover {
+  background-color: green;
+  cursor: crosshair;
+
+}
+
+
+.paraimage1{
+  float: left;
+  margin: 10px;
+  margin-bottom: 10px;
+  
+}
+
+#main {
+    
+    background-color: #e5e4d7;
+    border-radius: 5px;
+    
+    padding: 10px;
+    margin:20px;
+    cursor: help;
+     position: relative;
+    
+}
+
+#square{
+  height: 25px;
+  width: 25px;
+  background: red;
+  
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  
+}
+#main2 {
+    background-color: green;
+    color: yellow;
+    border-radius: 5px;
+    
+    padding:10px;
+    margin:20px;
+    height:120px;
+    overflow: scroll;
+    cursor: move;
+   
+    
+}
+.float1{
+    width: 50%;
+    float: left;
+    background-color: grey;
+}
+
+.floatright {
+    background-color: grey;
+    width: 50%;
+    float: right;
+
+
+}
+.imageparag img {
+  float: right;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 100px;
+  padding-right: 50px;
+  cursor: none;
+
+}
+.imageparg blockquote {
+  position: relative;
+  font-family: Impact;
+  top: 60px;
+  left: 10px;
+  font-size: 100px;
+  padding: 20px;
+ 
+
+  
+}
+
+a:link {
+	Color: blue;
+  cursor: cell;
+}
+
+a:visited {
+	Color: 8c8c9d;
+}
+
+a:hover {
+	color:#F15A51;
+  
+}
+
+body{
+  margin:0;
+}
+
+.mision{
+  font-family: "Lucida Grande";
+  color: white;
+  background-color: grey;
+  margin-bottom: 0;
+  padding: 100px;
+  cursor: alias;
+  
+}
